@@ -1,0 +1,25 @@
+{
+  "name": "particles-bootstrap",
+  "description": "Add twitter bootstrap to your Particles application",
+  "version": "3.0.0",
+  "homepage": "https://github.com/particles/particles-bootstrap",
+  "author": {
+    "name": "Mario Casciaro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/particles/particles-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/particles/particles-bootstrap/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/particles/particles-bootstrap/blob/master/LICENSE"
+    }
+  ],
+  "peerDependencies": {
+    "grunt-particles-assetmanager": "~0.1.0"
+  }
+}
