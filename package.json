@@ -1,7 +1,7 @@
 {
   "name": "particles-bootstrap",
   "description": "Add twitter bootstrap to your Particles application",
-  "version": "3.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/particles/particles-bootstrap",
   "author": {
     "name": "Mario Casciaro"
