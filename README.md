@@ -1,7 +1,7 @@
 [![NPM version](https://badge.fury.io/js/particles-bootstrap.png)](http://badge.fury.io/js/particles-bootstrap) 
 [![Dependency Status](https://gemnasium.com/particles/particles-bootstrap.png)](https://gemnasium.com/particles/particles-bootstrap)
 
-# [particles](https://github.com/particles/particles)-jquery
+# [particles](https://github.com/particles/particles)-bootstrap
 
 > Bootstrap client-side asset for Particles applications
 
