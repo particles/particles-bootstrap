@@ -1,11 +1,10 @@
+[![NPM version](https://badge.fury.io/js/particles-bootstrap.png)](http://badge.fury.io/js/particles-bootstrap) 
+[![Dependency Status](https://gemnasium.com/particles/particles-bootstrap.png)](https://gemnasium.com/particles/particles-bootstrap)
 
-#Synopsis
+# [particles](https://github.com/particles/particles)-jquery
 
-Add Twitter Bootstrap to your [Particles](https://github.com/particles) application
+> Bootstrap client-side asset for Particles applications
 
-[![NPM](https://nodei.co/npm/particles-bootstrap.png?downloads=true)](https://nodei.co/npm/particles-bootstrap/)
+## License
 
------
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/particles/particles-bootstrap/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
+[MIT](http://en.wikipedia.org/wiki/MIT_License) @ Mario Casciaro
